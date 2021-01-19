@@ -21,7 +21,7 @@
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
  
+ 
  ![Jocelino github stats](https://github-readme-stats.vercel.app/api?username=jocelinoFG017&show_icons=true&theme=merko)
  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact)](https://github.com/jocelinoFG017/github-readme-stats)
