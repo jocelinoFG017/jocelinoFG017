@@ -23,3 +23,4 @@ ________________________________________________________________________________
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact)](https://github.com/jocelinoFG017/github-readme-stats)
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jocelinoFG017.jocelinoFG017" />
