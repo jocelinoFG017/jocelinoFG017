@@ -1,6 +1,6 @@
-<h1>Hi, i am Jocelino F. Garcia, nice to meet you!.</h1>
+<h1>Hi, i am Jocelino F. Garcia.</h1>
 
-> Welcome to my Github profile. If you like something here, follow me <I follow you back>.
+> Welcome to my Github profile. If you like something here, follow me "I follow you back".
 
 ### :scroll: Technologies I'm currently using
 
@@ -18,9 +18,9 @@ ________________________________________________________________________________
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
  
- 
- ![Jocelino github stats](https://github-readme-stats.vercel.app/api?username=jocelinoFG017&show_icons=true&theme=merko)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact)](https://github.com/jocelinoFG017/github-readme-stats)
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jocelinoFG017.jocelinoFG017" />
+<br>
+<h1 align="center"></h1>
+<img  align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jocelinoFG017&show_icons=true&theme=merko">
+<img  align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact">
+
