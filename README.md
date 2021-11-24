@@ -1,6 +1,6 @@
-<h1>Hi, i am Jocelino F. Garcia.</h1>
+<h1>Hi, i am Jocelino F. Garcia, nice to meet you!.</h1>
 
-> Welcome to my Github profile. If you like something here, follow me and give me a star.
+> Welcome to my Github profile. If you like something here, follow me <I follow you back>.
 
 ### :scroll: Technologies I'm currently using
 
