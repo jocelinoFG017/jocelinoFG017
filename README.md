@@ -22,5 +22,5 @@ ________________________________________________________________________________
 <br>
 <h1 align="center"></h1>
 <img  align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jocelinoFG017&show_icons=true&theme=merko">
-<img  align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact">
+<img  align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinoFG017&langs_count=6&layout=compact">
 
