@@ -17,7 +17,8 @@ ________________________________________________________________________________
 
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
- 
+ - HackerRank: https://www.hackerrank.com/jocelinogg
+ - 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jocelinoFG017.jocelinoFG017" />
 <br>
 <h1 align="center"></h1>
