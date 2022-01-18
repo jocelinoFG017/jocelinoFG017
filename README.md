@@ -14,6 +14,7 @@ ________________________________________________________________________________
 | Bootstrap                      | Music Maker                                     | HTML            |
 | Android Studio                 | Krita                                           | CSS             |
 | Eclipse IDE                    | Audacity                                        | GDScript        |
+| Flutter                        |                                                 | Dart            |
 
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
