@@ -15,8 +15,10 @@ ________________________________________________________________________________
 | Android Studio                 | Krita                                           | CSS             |
 | Eclipse IDE                    | Audacity                                        | GDScript        |
 | Flutter                        |                                                 | Dart            |
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
  - HackerRank: https://www.hackerrank.com/jocelinogg
