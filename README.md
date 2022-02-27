@@ -15,6 +15,7 @@ ________________________________________________________________________________
 | Android Studio                 | Krita                                           | CSS             |
 | Eclipse IDE                    | Audacity                                        | GDScript        |
 | Flutter                        |                                                 | Dart            |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 #### :busts_in_silhouette: Some Links
  - Linkedin: https://www.linkedin.com/in/jocelino-farias-garcia-5525b9163/
