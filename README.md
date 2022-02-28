@@ -4,6 +4,7 @@
 
 > Current learning React and JavaScript.
 
+> Use my Firefox theme : https://addons.mozilla.org/en-US/firefox/addon/blue-in-dark/
 ## :scroll: Technologies what i have knowlegment.
 
 ### :computer: Web and Mobile Development
