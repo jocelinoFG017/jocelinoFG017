@@ -2,7 +2,7 @@
 
 > Welcome to my Github profile. If you like something here, follow me "I follow you back".
 
-> Current learning React and JavaScript.
+> Current learning about React, Javascript and Linux distributions.
 
 > Use my Firefox theme : https://addons.mozilla.org/en-US/firefox/addon/blue-in-dark/
 ## :scroll: Technologies what i have knowlegment.
